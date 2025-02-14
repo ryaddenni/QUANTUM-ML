@@ -7,9 +7,9 @@ This repository contains a Python implementation of a Quantum Generative Adversa
 **"Option Pricing using Quantum Computers" (arXiv:1905.02666)**
 *Somaya Abuhmed, Donatello Conte, Roman Gantner, Christa Zoufal, Juerg Woehr, and Stefan Woerner*
 
-## Code Description: `quantumAI_gpu.py`
+## Code Description: `main.py`
 
-This Python script (`quantumAI_gpu.py`) demonstrates the concept of using a hybrid Quantum-Classical Generative Adversarial Network (QGAN) to learn the risk-neutral probability distribution of an underlying asset's price and subsequently use this distribution to price European call options.
+This Python script (`main.py`) demonstrates the concept of using a hybrid Quantum-Classical Generative Adversarial Network (QGAN) to learn the risk-neutral probability distribution of an underlying asset's price and subsequently use this distribution to price European call options.
 
 ### Key Components:
 
