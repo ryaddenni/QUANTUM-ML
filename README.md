@@ -90,3 +90,12 @@ Quantum Machine Learning (QML) is a burgeoning field that explores how quantum c
 This code serves as a starting point for understanding and exploring the exciting intersection of quantum computing and machine learning in the context of financial applications. As quantum computing technology progresses, QML is expected to play an increasingly important role in various domains, potentially transforming how we approach complex computational problems.
 
 Note : you will need linux to run this since it uses the gpu and to qiskit-aer-gpu is not available on windows.
+
+**Sources:**
+
+[Option Pricing Using Quantum Computers](https://arxiv.org/pdf/1905.02666)
+
+[Quantum GANs](https://arxiv.org/pdf/1804.08641)
+
+
+
