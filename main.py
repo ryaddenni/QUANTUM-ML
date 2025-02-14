@@ -26,7 +26,7 @@ risk_free_rate = 0.02
 
 num_real_samples = 1024
 batch_size = 64
-num_epochs = 3
+num_epochs = 100
 shots = 1024
 
 optimizer_generator = COBYLA(maxiter=100)
